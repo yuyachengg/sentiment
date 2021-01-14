@@ -3,8 +3,8 @@
 
 ---
 #### Valence/Arousal 
+##### The sentimental Valence-Arousal prediction model based on deep neural networks and comprehensive semantic features.
 ![image](https://github.com/yuyachengg/sentiment/blob/master/Figures%204.jpg)
-
 
 --
 #### sentiment classification model
